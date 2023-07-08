@@ -1,20 +1,33 @@
-import { StatusBar } from 'expo-status-bar';
-import { StyleSheet, Text, View } from 'react-native';
 
-export default function App() {
+import { View, Text } from 'react-native'
+import React from 'react'
+
+import FlatlistGetData from './Screens/API/GET/FlatlistGetData'
+import Post1 from './Screens/API/Post/Post1'
+import Post2 from './Screens/API/Post/Post2'
+
+import Post3 from './Screens/API/Post/Post3'
+import PostData from './Screens/API/Post/PostData'
+import DeletedList from './Screens/API/DeleteAndUpdate/DeletedList'
+import StackNavigationsScreen from './Nav/StackNavigationsScreen'
+
+
+const App = () => {
   return (
-    <View style={styles.container}>
-      <Text>Open up App.js to start working on your app!</Text>
-      <StatusBar style="auto" />
-    </View>
-  );
+ 
+      <StackNavigationsScreen />
+  )
 }
 
-const styles = StyleSheet.create({
-  container: {
-    flex: 1,
-    backgroundColor: '#fff',
-    alignItems: 'center',
-    justifyContent: 'center',
-  },
-});
+export default App
+
+{/* <View> */}
+
+{/* <FlatlistGetData /> */}
+{/* <Post1 /> */}
+{/* <Post2 /> */}
+{/* <Post3 /> */}
+{/* <Post4 /> */}
+{/* <DeletedList /> */}
+<StackNavigationsScreen />
+{/* </View> */}

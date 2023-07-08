@@ -1,0 +1,94 @@
+{
+  "users": [
+    {
+      "name": " Pravin",
+      "age": " 22",
+      "email": " Pravin123@gmail.com",
+      "id": 27
+    },
+    {
+      "name": "Amol",
+      "age": "29",
+      "email": "amol28@gmail.com",
+      "id": 28
+    },
+    {
+      "name": " Ravi",
+      "age": " 30",
+      "email": " ravi29@gmail.com",
+      "id": 29
+    },
+    {
+      "name": "Ganesh",
+      "age": "25",
+      "email": "aherganesh194@gmail.com",
+      "id": 30
+    },
+    {
+      "name": " Akhil",
+      "age": "36",
+      "email": " Akhil12@gmail.com",
+      "id": 35
+    },
+    {
+      "name": " Pravin",
+      "age": "23",
+      "email": " pravin123@gmail.com",
+      "id": 36
+    },
+    {
+      "name": "Sai",
+      "age": "10",
+      "email": "Sai",
+      "id": 37
+    },
+    {
+      "name": "Raj",
+      "age": "2",
+      "email": "Raj123@gmail.com",
+      "id": 39
+    },
+    {
+      "name": "Sarthak",
+      "age": "13",
+      "email": "Sa",
+      "id": 40
+    },
+    {
+      "name": "Abhang",
+      "age": "6",
+      "email": "Ab7gmil.com",
+      "id": 41
+    },
+    {
+      "name": "Aditi ",
+      "age": "23",
+      "email": "aditi12@gmail.com",
+      "id": 43
+    },
+    {
+      "name": "AjhadHind",
+      "age": "24",
+      "email": "AjadExpress@gmail.com",
+      "id": 44
+    },
+    {
+      "name": "Durndo",
+      "age": "23",
+      "email": "DurndoExpress@gmail.com",
+      "id": 45
+    },
+    {
+      "name": "Home",
+      "age": "22",
+      "email": "Homw🏠@Gmail.com",
+      "id": 46
+    },
+    {
+      "name": "Daund",
+      "age": "2",
+      "email": "Daund123@gmail.com",
+      "id": 47
+    }
+  ]
+}
