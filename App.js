@@ -10,12 +10,14 @@ import Post3 from './Screens/API/Post/Post3'
 import PostData from './Screens/API/Post/PostData'
 import DeletedList from './Screens/API/DeleteAndUpdate/DeletedList'
 import StackNavigationsScreen from './Nav/StackNavigationsScreen'
+import MapMethod from './Screens/API/GET/MapMethod'
 
 
 const App = () => {
   return (
  
-      <StackNavigationsScreen />
+      // <StackNavigationsScreen />
+      <MapMethod />
   )
 }
 

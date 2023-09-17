@@ -128,6 +128,7 @@ const navigation=useNavigation();
       <Modal visible={showModal} transparent={true}>
         <View style={Styles.centerView}>
           <View style={Styles.modalView}>
+            
             <TextInput
               style={Styles.inputStyle}
               placeholder="Enter the Name"

@@ -34,6 +34,8 @@ const PostData = (props) => {
     }
 
     const url = "http://192.168.43.160:3000/users";
+
+    
     let result = await fetch(url, {
       method: "POST",
 
